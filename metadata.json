@@ -1,0 +1,7 @@
+{
+  "name": "GiaoHang - Delivery Tracker",
+  "description": "A real-time delivery tracking application with map visualization and driver information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
